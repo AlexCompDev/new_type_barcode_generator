@@ -1,0 +1,1 @@
+# new_type_barcode_generator
